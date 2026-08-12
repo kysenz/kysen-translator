@@ -15,7 +15,7 @@
 <p align="center"><b>Speak without borders.</b></p>
 
 <p align="center">
-  <img src="docs/media/ui_chat.png?v=20260812c" alt="Kysen Translator, Chat tab" width="720" />
+  <img src="docs/media/ui_chat.png?v=20260812d" alt="Kysen Translator, Chat tab" width="720" />
 </p>
 
 ---
