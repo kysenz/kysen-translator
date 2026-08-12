@@ -20,7 +20,7 @@
 
 ---
 
-Kysen is a Windows app for gamers who play across languages. It translates your chat, reads the screen for you, and carries your voice into another language, all without leaving the game.
+Kysen is a Windows app for gamers who play across languages. It translates your chat, reads the screen for you, and handles voice both ways — you understand them, they understand you — all without leaving the game.
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -41,7 +41,7 @@ Kysen is a Windows app for gamers who play across languages. It translates your 
 
 - Hotkeys write, translate, and send your message without leaving the game.
 - On-screen text gets captured and translated live, so you always know what's going on around you.
-- Speak in your language, teammates hear it in theirs, and it still sounds like you, even out loud.
+- Speak in your language and hear theirs translated live — teammates still hear you sounding like you, not a flat robot.
 - Multiple chat styles keep replies sounding like a real person typed them, not raw machine output.
 - Sign in and it's ready, no setup hassle.
 
@@ -87,11 +87,11 @@ Select a region of the screen. Kysen reads the text there and shows you a live t
 </details>
 
 <details>
-<summary><b>Voice chat</b> · Speak in your language, they hear it translated, and it still sounds like you</summary>
+<summary><b>Voice chat</b> · Hear them in your language, speak so they hear you in theirs</summary>
 
 <br>
 
-Built for voice lobbies (Valorant, CS, Discord parties, and similar). Speak into your mic, Kysen translates in real time, and teammates hear it spoken back in their language without it sounding like a flat robot voice.
+Built for voice lobbies (Valorant, CS, Discord parties, and similar). Kysen listens to the other side and shows you a live translation so you know what they’re saying, and when you talk it translates your mic in real time so teammates hear you in their language — still sounding like you, not a flat robot voice.
 
 </details>
 
