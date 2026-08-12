@@ -20,7 +20,7 @@
 
 ---
 
-Kysen is a Windows app for gamers who play across languages. It translates your chat, reads the screen for you, and handles voice both ways — you understand them, they understand you — all without leaving the game.
+Kysen is a Windows app for gamers playing across different languages. It translates your chat, reads the screen, and handles two-way voice chat right inside your game.
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -41,7 +41,7 @@ Kysen is a Windows app for gamers who play across languages. It translates your 
 
 - Hotkeys write, translate, and send your message without leaving the game.
 - On-screen text gets captured and translated live, so you always know what's going on around you.
-- Speak in your language and hear theirs translated live — teammates still hear you sounding like you, not a flat robot.
+- Speak in your language and hear theirs live, so you sound like a real teammate instead of a robot.
 - Multiple chat styles keep replies sounding like a real person typed them, not raw machine output.
 - Sign in and it's ready, no setup hassle.
 
