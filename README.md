@@ -91,7 +91,7 @@ Select a region of the screen. Kysen reads the text there and shows you a live t
 
 <br>
 
-Built for voice lobbies (Valorant, CS, Discord parties, and similar). Kysen listens to the other side and shows you a live translation so you know what they’re saying, and when you talk it translates your mic in real time so teammates hear you in their language — still sounding like you, not a flat robot voice.
+Built for voice lobbies (Valorant, CS, Discord parties, and similar). Kysen listens to the other side and shows you a live translation so you know what they’re saying, and when you talk it translates your mic in real time so teammates hear you in their language and still sound like you instead of a robot.
 
 </details>
 
