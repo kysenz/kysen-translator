@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kysenai.com"><img alt="Website" src="https://img.shields.io/badge/-Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7c6fcd" /></a>
-  <a href="https://discord.gg/XdCdUbGxHf"><img alt="Discord" src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7c6fcd" /></a>
+  <a href="https://discord.gg/bW6s4E6Ywf"><img alt="Discord" src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7c6fcd" /></a>
   <a href="https://github.com/kysenz/kysen-translator/releases/latest"><img alt="Download" src="https://img.shields.io/badge/-Download-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzdjNmZjZCI+PHBhdGggZD0iTTUgMjBoMTR2LTJINXYyek0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3oiLz48L3N2Zz4=" /></a>
 </p>
 
@@ -59,6 +59,7 @@ Kysen is a Windows app for gamers who play across languages. It translates your 
 |:----|:-------|
 | **F5** | Translate and send text |
 | **F6** | Capture and translate on-screen text |
+| **F1** | Hold to talk (voice) |
 | **F9** | Show or hide the window |
 
 ---
@@ -185,7 +186,7 @@ Manage your account and plans on the [Website](https://kysenai.com).
 
 Need help, found a bug, or just want updates?
 
-Join our [Discord](https://discord.gg/XdCdUbGxHf). That's the fastest place to get support.
+Join our [Discord](https://discord.gg/bW6s4E6Ywf). That's the fastest place to get support.
 
 ---
 
@@ -195,7 +196,7 @@ Kysen Translator is built and maintained by the Kysen team.
 
 Proprietary software. All rights reserved. Distributed as a compiled Windows app; this repository is a product page, not the source code.
 
-[Website](https://kysenai.com) · [Discord](https://discord.gg/XdCdUbGxHf)
+[Website](https://kysenai.com) · [Discord](https://discord.gg/bW6s4E6Ywf)
 
 ---
 
