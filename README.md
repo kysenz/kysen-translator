@@ -15,12 +15,12 @@
 <p align="center"><b>Speak without borders.</b></p>
 
 <p align="center">
-  <img src="docs/media/ui_chat.png?v=20260812d" alt="Kysen Translator, Chat tab" width="720" />
+  <img src="docs/media/ui_chat.png?v=20260906a" alt="Kysen Translator, Chat tab" width="720" />
 </p>
 
 ---
 
-Kysen is a Windows app for gamers playing across different languages. It translates your chat, reads the screen, and handles two-way voice chat right inside your game.
+Kysen is a Windows app for players communicating across different languages. It translates your messages, reads on-screen chat, and helps you communicate by voice without leaving the game.
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -40,18 +40,21 @@ Kysen is a Windows app for gamers playing across different languages. It transla
 ## Why use it
 
 - Hotkeys write, translate, and send your message without leaving the game.
-- On-screen text gets captured and translated live, so you always know what's going on around you.
-- Speak in your language and hear theirs live, so you sound like a real teammate instead of a robot.
+- On-screen text gets captured and translated, so you always know what's going on around you.
+- Speak in your language and communicate by voice across languages.
 - Multiple chat styles keep replies sounding like a real person typed them, not raw machine output.
-- Sign in and it's ready, no setup hassle.
+- Text translation is ready in minutes — choose your game, language, and start chatting.
 
 ---
 
 ## Quick start
 
-1. Download from [kysenai.com](https://kysenai.com)
+1. Download Kysen from [kysenai.com](https://kysenai.com)
 2. Install and sign in
-3. Press **F5** and start using it
+3. Choose your game and target language
+4. Type in your language and press **F5**
+
+Kysen translates the message and sends it to the game chat.
 
 **Hotkeys** (customizable):
 
@@ -69,7 +72,7 @@ Kysen is a Windows app for gamers playing across different languages. It transla
 Click any feature to expand.
 
 <details>
-<summary><b>Text chat translation</b> · Write in your language, send in theirs, instantly</summary>
+<summary><b>Text chat translation</b> · Write in your language, send in theirs</summary>
 
 <br>
 
@@ -82,7 +85,7 @@ Type normally. Kysen rewrites the message into the other player's language and s
 
 <br>
 
-Select a region of the screen. Kysen reads the text there and shows you a live translation, useful when the other side is typing in a language you don't know.
+Select a region of the screen. Kysen reads the text there and shows you a translation, useful when the other side is typing in a language you don't know.
 
 </details>
 
@@ -91,7 +94,7 @@ Select a region of the screen. Kysen reads the text there and shows you a live t
 
 <br>
 
-Built for voice lobbies (Valorant, CS, Discord parties, and similar). Kysen listens to the other side and shows you a live translation so you know what they’re saying, and when you talk it translates your mic in real time so teammates hear you in their language and still sound like you instead of a robot.
+Built for voice lobbies (Valorant, CS, Discord parties, and similar). Kysen listens to the other side and translates what they say into your language, and when you talk it translates your mic so teammates hear you in their language and still sound like you instead of a robot.
 
 </details>
 
@@ -126,7 +129,7 @@ Pick the vibe that fits who you want to sound like in chat.
 </details>
 
 <details>
-<summary><b>Latin letters / Real alphabet</b> · For games that can't show every script</summary>
+<summary><b>Latin / Original script</b> · Use transliteration when the original writing system isn't practical in-game</summary>
 
 <br>
 
@@ -155,7 +158,7 @@ When chat is moving fast, Smart Reply suggests answers that fit the conversation
 </details>
 
 <details>
-<summary><b>Real-time flow</b> · No alt-tab, no interruptions, translations keep up with the game</summary>
+<summary><b>In-game flow</b> · Translate and send messages without alt-tabbing or copy-pasting</summary>
 
 <br>
 
@@ -163,22 +166,15 @@ Hotkeys and overlays keep you in the match. Translate, send, and keep playing wi
 
 </details>
 
-<details>
-<summary><b>Cache</b> · Skips reprocessing messages it has already translated</summary>
-
-<br>
-
-Repeated lines and common chat phrases resolve faster because Kysen remembers what it already handled.
-
-</details>
-
 ---
 
 ## Plans
 
-Every feature is included in your subscription. No extra purchases, no separate setup per feature.
+Start free and upgrade only when you need more.
 
-Manage your account and plans on the [Website](https://kysenai.com).
+Basic translation stays free. Paid plans unlock voice translation, higher AI limits, and additional voice features.
+
+Manage your plan on the [Website](https://kysenai.com).
 
 ---
 
