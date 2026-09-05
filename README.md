@@ -39,7 +39,7 @@ Kysen is a Windows app for players communicating across different languages. It 
 
 ## Why use it
 
-- Hotkeys write, translate, and send your message without leaving the game.
+- Your message translation shortcut opens the Kysen chatbox, then Enter sends the translated line into the game.
 - On-screen text gets captured and translated, so you always know what's going on around you.
 - Speak in your language and communicate by voice across languages.
 - Multiple chat styles keep replies sounding like a real person typed them, not raw machine output.
@@ -49,21 +49,21 @@ Kysen is a Windows app for players communicating across different languages. It 
 
 ## Quick start
 
-1. Download Kysen from [kysenai.com](https://kysenai.com)
-2. Install and sign in
-3. Choose your game and target language
-4. Type in your language and press **F5**
+1. Download and sign in
+2. Choose your game and target language
+3. Press your message translation shortcut
+4. Type in the Kysen chatbox and press Enter
 
-Kysen translates the message and sends it to the game chat.
+Kysen opens the game chat, translates your message, and sends it.
 
-**Hotkeys** (customizable):
+**Shortcuts** (assign them in the app):
 
-| Key | Action |
+| Shortcut | Action |
 |:----|:-------|
-| **F5** | Translate and send text |
-| **F6** | Capture and translate on-screen text |
-| **F1** | Hold to talk (voice) |
-| **F9** | Show or hide the window |
+| Message translation | Opens the Kysen chatbox. Type in your language and press Enter. Kysen opens the game chat, translates, and sends. |
+| Screen translation | Reads and translates on-screen text |
+| Voice (hold to talk) | Speak while holding your assigned voice shortcut |
+| Show or hide window | Shows or hides the app |
 
 ---
 
@@ -76,7 +76,7 @@ Click any feature to expand.
 
 <br>
 
-Type normally. Kysen rewrites the message into the other player's language and sends it for you, so you never leave the game to open a translator.
+Press your message translation shortcut, type in the Kysen chatbox in your language, and press Enter. Kysen opens the game chat, translates, and sends — no alt-tab translator.
 
 </details>
 
