@@ -39,31 +39,34 @@ Kysen is a Windows app for players communicating across different languages. It 
 
 ## Why use it
 
-- Your message translation shortcut opens the Kysen chatbox, then Enter sends the translated line into the game.
-- On-screen text gets captured and translated, so you always know what's going on around you.
-- Speak in your language and communicate by voice across languages.
-- Multiple chat styles keep replies sounding like a real person typed them, not raw machine output.
-- Text translation is ready in minutes — choose your game, language, and start chatting.
+- Stay in the game. Open the Kysen chatbox with your shortcut, type in your language, press Enter, and Kysen translates and sends the message for you.
+- Understand foreign chat. Capture on-screen messages and read them in your language without alt-tabbing or copy-pasting.
+- Communicate by voice. Speak in your own language and use Kysen to carry the conversation across languages.
+- Get answers when you do not know what to say. Smart Reply can suggest context-aware responses, including answers to technical, programming, math, and general knowledge questions.
+- Styles change more than tone. Casual, Charm and Professional change how you come across. Troll can use deliberately unusual or historical forms of a language, while Fake can produce believable non-native phrasing.
+- Keep the way players actually talk. AI translation can account for slang, tone, conversation context and game terminology instead of treating every message like textbook text.
+- Make it yours. Shortcuts, writing behavior, preserved words and other communication settings can be adjusted to fit how you play.
 
 ---
 
 ## Quick start
 
-1. Download and sign in
-2. Choose your game and target language
-3. Press your message translation shortcut
-4. Type in the Kysen chatbox and press Enter
+1. Download Kysen from [kysenai.com](https://kysenai.com)
+2. Install and sign in
+3. Choose your game and target language
+4. Press your message translation shortcut (F5 by default)
+5. Type your message in the Kysen chatbox and press Enter
 
-Kysen opens the game chat, translates your message, and sends it.
+**Default hotkeys (customizable)**
 
-**Shortcuts** (assign them in the app):
+You can change these in the app.
 
-| Shortcut | Action |
+| Key | Action |
 |:----|:-------|
-| Message translation | Opens the Kysen chatbox. Type in your language and press Enter. Kysen opens the game chat, translates, and sends. |
-| Screen translation | Reads and translates on-screen text |
-| Voice (hold to talk) | Speak while holding your assigned voice shortcut |
-| Show or hide window | Shows or hides the app |
+| **F5** | Open message translation chatbox |
+| **F6** | Capture and translate on-screen text |
+| **F1** | Hold to talk (voice) |
+| **F9** | Show or hide the window |
 
 ---
 
@@ -76,7 +79,7 @@ Click any feature to expand.
 
 <br>
 
-Press your message translation shortcut, type in the Kysen chatbox in your language, and press Enter. Kysen opens the game chat, translates, and sends — no alt-tab translator.
+Press your message translation shortcut, type in the Kysen chatbox in your language, and press Enter. Kysen opens the game chat, translates, and sends. No alt-tab translator.
 
 </details>
 
